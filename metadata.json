@@ -1,0 +1,6 @@
+{
+  "name": "Bukra - Interest-Free BNPL for Rwandan E-Commerce",
+  "description": "An interest-free Buy Now, Pay Later (BNPL) credit platform for Rwandan e-commerce adhering to Islamic finance principles, powered by MTN MoMo integration, dynamic risk scoring, and automated merchant settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
